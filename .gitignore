@@ -1,0 +1,11 @@
+src/
+vendor/
+node_modules/
+salonDB.sql
+gulpfile.js
+package.json
+package-lock.json
+.DS_Store
+.env
+cypress/
+cypress.json
