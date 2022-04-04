@@ -9,7 +9,7 @@ class Email{
     public $email;
     public $nombre;
     public $token;
-    private $dominio = "https://morning-taiga-80295.herokuapp.com";
+    private $dominio = "https://demo-salon.herokuapp.com";
 
     public function __construct($email, $nombre, $token){
         $this->email = $email;
