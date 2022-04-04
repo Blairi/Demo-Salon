@@ -1,5 +1,5 @@
 <h1 class="nombre-pagina" data-cy="titulo-login">Login</h1>
-<p class="descripcion-pagina">Iniciar sesión con tus datos</p>
+<p class="descripcion-pagina">Inicia sesión con tus datos para agendar tu cita con nosotros</p>
 <?php include_once __DIR__ . "/../templates/alertas.php"; ?>
 <form data-cy="formulario-login" class="formulario" method="POST" action="/">
     <div class="campo">

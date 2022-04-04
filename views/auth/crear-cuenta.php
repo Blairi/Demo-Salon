@@ -63,6 +63,8 @@
         />
     </div>
 
+    <p class="hint">*Se enviara un correo de verificación.</p>
+
     <input type="submit" value="Crear Cuenta" class="boton" data-cy="btn-crear">
 
 </form>
